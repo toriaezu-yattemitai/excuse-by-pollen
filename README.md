@@ -10,6 +10,8 @@
 生成された文章がどれほど説得力があるかを数値化したスコアです。
 
 ## 技術スタック
+<img width="1280" height="598" alt="Image" src="https://github.com/user-attachments/assets/854fbb61-3dc3-4603-9465-e667bb61e86d" />
+
 ### フロントエンド
 - React
 - Next.js
